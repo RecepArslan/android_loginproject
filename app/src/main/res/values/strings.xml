@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proje_Account</string>
+    <string name="activity_main_user_editText">admin</string>
+    <string name="activity_main_giris_btn">giris</string>
+    <string name="activity_main_password_editText">*******</string>
+    <string name="activity_2_user_editText"> yeni kullanıcı adı</string>
+    <string name="activity_2_password_editText">new password</string>
+    <string name="activty_2_kaydet_btn">Kaydet</string>
+    <string name="activity_main_toastmessagehataligiris">hatalı giriş yaptınız</string>
+    <string name="activity2_toastmessageyenihataligiris">sifreniz en az6 karakterden olusmalı ve en az 1 tane noktamala işareti ile büyük harf bulunmalı </string>
+
+</resources>
